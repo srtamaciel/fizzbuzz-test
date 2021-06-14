@@ -19,3 +19,6 @@ $ npm install
 $ npm test:watch // To see the test running 
 $ node fuzzbizz // To see the log at the terminal
 ```
+
+⌨️ with ❤️ by:
+ [Raquel R D](https://www.linkedin.com/in/raquel-rodriguez-diaz/) - [GitHub](https://github.com/srtamaciel)
