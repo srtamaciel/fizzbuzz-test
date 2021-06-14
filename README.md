@@ -14,8 +14,8 @@ The console should print:
 if you want to clone this repo:
 
 ```shell
-$ cd fuzzbizz
+$ cd fizzbuzz
 $ npm install
-$ npm test:watch
-$ node fuzzbizz
+$ npm test:watch // To see the test running 
+$ node fuzzbizz // To see the log at the terminal
 ```
